@@ -1,0 +1,15 @@
+baseURL = "http://www.ropieee.org/"
+languageCode = "en-us"
+title = "RoPieee"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[params]
+  favicon=""
+  twitter = "https://twitter.com/Ro_Pieee"
