@@ -2,7 +2,7 @@
 title: "Changelog"
 featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
-weight: 4
+weight: 5
 ---
 **2017/10/02**
 

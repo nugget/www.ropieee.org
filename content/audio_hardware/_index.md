@@ -2,7 +2,7 @@
 title: "Audio Hardware"
 featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "Which hardware is supported."
-weight: 3
+weight: 4
 ---
 RoPieee supports different digital audio outputs. After it's initial setup it assumes you have an USB DAC attached to it. If you have equipped your Raspberry Pi with a specific HAT you need to configure it. To do that you need to go to the web page of the RoPieee (see 'Getting Started'). 
 
