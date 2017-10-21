@@ -4,7 +4,7 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "Get RoPieee up-and-running."
 weight: 1
 ---
-To get started with RoPieee you first need to download the latest image from the Software section. Next you need to write this image to an SD card (RoPieee requires an SD card of minimal 4GB in size). If you don't know how to do this you could have a look at [Etcher](https://etcher.io/), a very simple tool that can help you with that.
+To get started with RoPieee you first need to download the latest image from the [Software](/software) section. Next you need to write this image to an SD card (RoPieee requires an SD card of minimal 4GB in size). If you don't know how to do this you could have a look at [Etcher](https://etcher.io/), a very simple tool that can help you with that.
 
 When you've written the image to the SD card you're good to go! Place the SD card in the Raspberry Pi and power it on.
 
