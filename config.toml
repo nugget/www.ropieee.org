@@ -11,5 +11,5 @@ googleAnalytics = "UA-98286335-1"
 enableRobotsTXT = true
 
 [params]
-  favicon=""
+  favicon="favicon.ico"
   twitter = "https://twitter.com/Ro_Pieee"
