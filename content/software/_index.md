@@ -6,3 +6,6 @@ weight: 2
 ---
 The latest RoPieee image is from 2017/10/02 and can be downloaded from [here](http://image.ropieee.org/ropieee-20171002.img)
 
+*Limitations*
+
+Currently RoPieee does only support wired connections.

@@ -8,7 +8,7 @@ To get started with RoPieee you first need to download the latest image from the
 
 When you've written the image to the SD card you're good to go! Place the SD card in the Raspberry Pi and power it on.
 
-RoPieee will boot and configure some final items. This will take some time and during this period RoPieee will reboot a few more times. This configuration period can take up to 4 minutes, so be patient and get some coffee ;-)
+RoPieee will boot and configure some final items. This will take some time and during this period RoPieee will reboot a few more times. This configuration period can take up to 5 minutes, so be patient and get some coffee ;-)
 
 After this last reboot RoPieee can be configured as endpoint from within Roon.
 
