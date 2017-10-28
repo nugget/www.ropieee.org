@@ -4,6 +4,17 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2017/10/28 (061)**
+
+* FIX: Don’t accept empty reboot time
+* FIX: notifications on updates, while there is no update available
+* IMPROVEMENT: make packaging more reliable
+* IMPROVEMENT: show version number
+* IMPROVEMENT: don’t show login during installation but msg
+* IMPROVEMENT: enhance feedback functionality
+* IMPROVEMENT: reduce installation time
+* IMPROVEMENT: Linux kernel 4.9.52
+
 **2017/10/02**
 
 * NEW: support for static network configuration
