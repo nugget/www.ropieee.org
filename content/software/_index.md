@@ -8,4 +8,5 @@ The latest RoPieee image is from 2017/10/28 and can be downloaded from [here](ht
 
 *Limitations*
 
-Currently RoPieee does only support wired connections.
+- RoPieee requires a Raspberry Pi 2 or 3.
+- With wireless (Pi 3) we only support DHCP.
