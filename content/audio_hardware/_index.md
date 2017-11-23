@@ -12,6 +12,7 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 * Allo DigiOne
 * Allo Piano DAC
 * Allo Piano DAC 2.1
+* Audiophonics ES9028Q2M (*) 
 * HifiBerry AMP/AMP+
 * HifiBerry DAC/DAC+/DAC+ Pro
 * HifiBerry Digi/Digi+/Digi+ Pro
@@ -20,6 +21,8 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 * IQaudIO Pi-Digi+
 * Justboom AMP HAT, DAC HAT
 * Raspberry Pi DAC
+
+_(HAT's marked with * have preliminary support.)_
 
 **Native DSD streaming**
 
