@@ -4,6 +4,15 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2017/11/25 (076)**
+
+* FIX: static network configuration does not resolve properly
+* FIX: don't show the display tab on the network page if there's no display
+* IMPROVEMENT: no need to re-enable extension on update
+* IMPROVEMENT: Linux kernel 4.9.60
+* NEW: WiFi support (DHCP-only) on the Raspberry Pi 3
+* NEW: support for the Audiophonics I-SABRE ES9028Q2M
+
 **2017/10/28 (061)**
 
 * FIX: Don’t accept empty reboot time

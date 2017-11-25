@@ -6,7 +6,7 @@ weight: 1
 ---
 To get started with RoPieee you first need to download the latest image from the [Software](/software) section. Next you need to write this image to an SD card (RoPieee requires an SD card of minimal 4GB in size). If you don't know how to do this you could have a look at [Etcher](https://etcher.io/), a very simple tool that can help you with that.
 
-When you've written the image to the SD card you're good to go! Place the SD card in the Raspberry Pi and power it on.
+When you've written the image to the SD card you're good to go! Place the SD card in the Raspberry Pi and power it on. _Make sure the Raspberry Pi is connected to the internet!_
 
 RoPieee will boot and configure some final items. This will take some time and during this period RoPieee will reboot a few more times. This configuration period can take up to 5 minutes, so be patient and get some coffee ;-)
 
