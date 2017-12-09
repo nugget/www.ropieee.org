@@ -4,6 +4,12 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2017/12/09 (078)**
+
+* FIX: wifi config does not work when using static wired config
+* IMPROVEMENT: introduce retry mechanism on downloading RoonBridge
+* NEW: support for Justboom Digi HAT
+
 **2017/11/25 (076)**
 
 * FIX: static network configuration does not resolve properly
