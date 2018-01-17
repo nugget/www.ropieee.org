@@ -4,6 +4,12 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2018/01/17 (083)**
+
+* NEW: native DSD for the Mytek Manhattan
+* NEW: native DSD for the Mytek Brooklyn DAC+ (second generation)
+* IMPROVEMENT: bump Linux kernel to 4.6.70
+
 **2017/12/09 (078)**
 
 * FIX: wifi config does not work when using static wired config
