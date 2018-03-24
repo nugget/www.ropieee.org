@@ -4,11 +4,21 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2018/03/24 (091)**
+
+* NEW: support for the Raspberry Pi 3 Model B+
+* NEW: native DSD for the APL Hi-Fi DSD-MR
+* NEW: native DSD for the APL Hi-Fi DSD-SR
+* IMPROVEMENT: improved handling of zone's begin removed in Remote Control Extension
+* IMPROVEMENT: make RoonBridge installation more robust
+* IMPROVEMENT: default rotated screen on installation
+* IMPROVEMENT: bump Linux kernel to 4.9.80
+
 **2018/01/17 (083)**
 
 * NEW: native DSD for the Mytek Manhattan
 * NEW: native DSD for the Mytek Brooklyn DAC+ (second generation)
-* IMPROVEMENT: bump Linux kernel to 4.6.70
+* IMPROVEMENT: bump Linux kernel to 4.9.70
 
 **2017/12/09 (078)**
 
