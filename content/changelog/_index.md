@@ -4,6 +4,10 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2018/03/31 (095)**
+
+* IMPROVEMENT: update Linux kernel from 4.9 to 4.14
+
 **2018/03/24 (091)**
 
 * NEW: support for the Raspberry Pi 3 Model B+

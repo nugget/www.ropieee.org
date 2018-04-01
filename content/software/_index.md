@@ -4,7 +4,7 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "Download the latest RoPieee image."
 weight: 2
 ---
-The latest RoPieee image is from 2018/03/24 and can be downloaded (does not work with Microsoft's Edge browser!) from [here](http://image.ropieee.org/ropieee-20180324.img)
+The latest RoPieee image is from 2018/03/31 and can be downloaded (does not work with Microsoft's Edge browser!) from [here](http://image.ropieee.org/ropieee-20180331.img)
 
 *Limitations*
 

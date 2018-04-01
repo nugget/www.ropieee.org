@@ -15,3 +15,6 @@ After this last reboot RoPieee can be configured as endpoint from within Roon.
 As RoPieee is meant to be used unattended (without screen and/or keyboard attached) it uses the green LED as a visual indication of what's going on. During installation/configuration the green LED will flash at high frequency (10Hz). When the RoPieee is ready to rock this changes in a flash at a steady 1 Hz.
 
 You can also visit the web page of the RoPieee to configure some items if necessary. For that you need to either know what the IP address is of your RoPieee or you can visit http://ropieee.local
+
+<br>
+### If you want more support you can either go to the [Roon forum](https://community.roonlabs.com/c/audio-products/ropieee) or have a look at the excellent [*RoPieee Beginner's Guide*](https://codexwilkes.com/downloads/ropieee-guide-for-beginners.pdf) written by Nathan Wilkes
