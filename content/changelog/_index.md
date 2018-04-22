@@ -4,6 +4,12 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2018/04/22 (0??)**
+
+* NEW: support for Orchard Audio's ApplePi DAC HAT
+* NEW: native DSD for the Topping DX7s
+* IMPROVEMENT: bump Linux kernel to 4.14.34
+
 **2018/03/31 (095)**
 
 * IMPROVEMENT: update Linux kernel from 4.9 to 4.14
