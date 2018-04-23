@@ -4,7 +4,7 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
-**2018/04/22 (0??)**
+**2018/04/23 (099)**
 
 * NEW: support for Orchard Audio's ApplePi DAC HAT
 * NEW: native DSD for the Topping DX7s
