@@ -53,6 +53,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * Matrix Audio X-Sabre
 * Matrix Audio Mini-i Pro
 * Matrix Audio X-SPDIF 2
+* Mola-Mola DAC
 * MSB Technology
 * Mutec MC3+ USB
 * Mytek Brooklyn DAC
