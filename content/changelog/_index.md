@@ -4,6 +4,21 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+**2018/05/21 (110)**
+
+* FIX: WiFi network id with spaces is not allowed
+* FIX: WiFi password with special characters is not allowed
+* IMPROV: show network config when DHCP (wired)
+* IMPROV: detect more Rpi 3 b+ models (different cpu revision)
+* IMPROV: changed network config heuristics when WiFi is enabled
+  (use different hostname for wired connection to prevent double DHCP entries)
+* IMPROV: show friendly message when rebooting in the webpage
+* IMPROV: make reboot schedule configurable
+* IMPROV: add option ‘on boot’ to update schedule
+* IMPROV: bump Linux kernel to 4.14.41
+* NEW: show board temperature in the webpage
+* NEW: native DSD support for the Mola-Mola DAC
+
 **2018/04/23 (099)**
 
 * NEW: support for Orchard Audio's ApplePi DAC HAT

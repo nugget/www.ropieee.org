@@ -21,7 +21,7 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 * IQaudIO Pi-Digi+
 * Justboom AMP HAT, DAC HAT
 * Justboom Digi HAT
-* Orchard Audio ApplePi DAC (*)
+* Orchard Audio ApplePi DAC
 * Raspberry Pi DAC
 
 _(HAT's marked with * have preliminary support.)_
