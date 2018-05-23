@@ -1,4 +1,4 @@
-baseURL = "http://www.ropieee.org/"
+baseURL = "https://www.ropieee.org/"
 languageCode = "en-us"
 title = "RoPieee"
 theme = "ananke"
