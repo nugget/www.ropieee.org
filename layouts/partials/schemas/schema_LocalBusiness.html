@@ -1,0 +1,43 @@
+<script type='application/ld+json'> 
+{
+    "@context": "http://www.schema.org",
+    "@type": "LocalBusiness",
+    "name": "{{ .Site.Params.name }}",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Site.BaseURL }}"
+    },
+    "address": [
+        {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
+        "addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
+        "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
+        "addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
+        "postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}"
+        }
+    ],
+    "telephone": "{{ .Site.Params.phone }}",
+    "image": "{{ .Site.BaseURL }}{{ .Site.Params.locations.primary.imageurl }}",
+    "priceRange": "{{ .Site.Params.pricerange }}",
+    "location": [
+        {
+        "@type": "PostalAddress",
+        "telephone": "{{ .Site.Params.phone }}",
+        "streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
+        "addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
+        "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
+        "addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
+        "postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}",
+        "serviceArea": [
+            {
+            "@type": "postalAddress",
+            "addressLocality":"{{ .Site.Params.locations.primary.address.city }}",
+            "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
+            "addressCountry": "{{ .Site.Params.locations.primary.address.country }}"
+            }
+        ]
+    }
+  ]
+}
+</script>
