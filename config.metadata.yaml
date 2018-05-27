@@ -9,15 +9,8 @@ params:
   keywords: ["RoPieee", "open source"]
   social:
     github: "RoPieee"
-    facebook: "RoPieee"
-    facebook_admin: "1111111"  # This needs to be a page admin to get domain insights
-    twitter: "RoPieee"
-    twitter_domain: "RoPieee.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus: "RoPieee"
-    pinterest: "RoPieee"
-    instagram: "RoPieee"
-    youtube: "RoPieee"
-    linkedin: "RoPieee"
+    twitter: "ro_pieee"
+    twitter_domain: "RoPieee.org" # This domain shows in twitter cards as "View on `twitter_domain`"
   authors:
     harry:
       name: "Harry ten Berge"
@@ -26,6 +19,6 @@ params:
       images: [
         ]
       bio: ""
-      email: "harry@RoPieee.com"
+      email: "harry+ropieee@gmail.com"
       social:
          github: "spockfish"
