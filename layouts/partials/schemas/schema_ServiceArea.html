@@ -1,0 +1,30 @@
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org",
+	"@type": "localBusiness",
+	"name": "{{ .Site.Params.name }}",
+	"image": "{{ .Site.BaseURL }}{{ .Site.Params.locations.primary.imageurl }}",
+	"telephone": "{{ .Site.Params.phone }}",
+	"priceRange": "{{ .Site.Params.pricerange }}",
+	"address": {
+		"@type": "PostalAddress",
+		"streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
+		"addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
+		"addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
+		"addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
+		"postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}"
+	},
+	"serviceArea": [
+		{
+			"@type": "place",
+			"name": "{{ .Site.Params.locations.primary.address.city }}",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
+				"addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
+				"addressCountry": "{{ .Site.Params.locations.primary.address.country }}"
+			}
+		}
+	]
+}
+</script>

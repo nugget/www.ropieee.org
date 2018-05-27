@@ -1,0 +1,24 @@
+baseURL: "https://www.ropieee.org/"
+languageCode: "en-us"
+title: "RoPieee"
+theme: "ananke"
+languageCode: "en-us"
+languageLang: "en"
+defaultContentLanguage: "en"
+enableEmoji: true
+copyright: "© 2018 RoPieee. All rights reserved."
+
+MetaDataFormat: "yaml"
+SectionPagesMenu: "main"
+Paginate: 3
+googleAnalytics: "UA-98286335-1"
+enableRobotsTXT: true
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+
+params:
+  favicon: "images/favicon-400x400.png"
+  twitter: "https://twitter.com/Ro_Pieee"
+  author: "RoPieee"
+  env: "development"

@@ -1,0 +1,24 @@
+params:
+  name: "RoPieee"
+  contact: "hello@RoPieee.com"
+  phone: "+31625068341"
+  copyright: "© 2018 RoPieee. All rights reserved."
+  description: "RoPieee"
+  logourl: "images/logo.png"
+  pricerange: "$$"
+  keywords: ["RoPieee", "open source"]
+  social:
+    github: "RoPieee"
+    twitter: "ro_pieee"
+    twitter_domain: "RoPieee.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+  authors:
+    harry:
+      name: "Harry ten Berge"
+      gender: "Male"
+      thumbnail: "harry.png"
+      images: [
+        ]
+      bio: ""
+      email: "harry+ropieee@gmail.com"
+      social:
+         github: "spockfish"
