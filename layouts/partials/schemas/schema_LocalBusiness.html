@@ -1,3 +1,4 @@
+{{ if isset .Params "location" }}{{ $location := index .Site.Data.location .Params.location }}
 <script type='application/ld+json'> 
 {
     "@context": "http://www.schema.org",
@@ -10,34 +11,35 @@
     "address": [
         {
         "@type": "PostalAddress",
-        "streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
-        "addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
-        "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
-        "addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
-        "postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}"
+        "streetAddress": "{{ $location.address.street }}",
+        "addressLocality": "{{ $location.address.city }}",
+        "addressRegion": "{{ $location.address.region }}",
+        "addressCountry": "{{ $location.address.country }}",
+        "postalCode": "{{ $location.address.postalcode }}"
         }
     ],
     "telephone": "{{ .Site.Params.phone }}",
-    "image": "{{ .Site.BaseURL }}{{ .Site.Params.locations.primary.imageurl }}",
+    "image": "{{ .Site.BaseURL }}{{ $location.thumbnail }}",
     "priceRange": "{{ .Site.Params.pricerange }}",
     "location": [
         {
         "@type": "PostalAddress",
         "telephone": "{{ .Site.Params.phone }}",
-        "streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
-        "addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
-        "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
-        "addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
-        "postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}",
+        "streetAddress": "{{ $location.address.street }}",
+        "addressLocality": "{{ $location.address.city }}",
+        "addressRegion": "{{ $location.address.region }}",
+        "addressCountry": "{{ $location.address.country }}",
+        "postalCode": "{{ $location.address.postalcode }}",
         "serviceArea": [
             {
             "@type": "postalAddress",
-            "addressLocality":"{{ .Site.Params.locations.primary.address.city }}",
-            "addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
-            "addressCountry": "{{ .Site.Params.locations.primary.address.country }}"
+            "addressLocality":"{{ $location.address.city }}",
+            "addressRegion": "{{ $location.address.region }}",
+            "addressCountry": "{{ $location.address.country }}"
             }
         ]
     }
   ]
 }
 </script>
+{{ end }}

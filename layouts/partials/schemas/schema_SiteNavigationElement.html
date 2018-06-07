@@ -10,7 +10,7 @@
         "@type":"SiteNavigationElement",
         "@id":"#header",
         "name": "{{ $e.Title }}",
-        "url": "{{ $baseUrl }}{{ trim $e.URL "/" }}"
+        "url": "{{ $e.URL | absURL }}"
     }
     {{- end -}}
 	]

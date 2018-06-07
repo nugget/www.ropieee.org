@@ -1,4 +1,5 @@
 {{ $baseUrl := .Site.BaseURL }}
+{{ $location := index .Site.Data.location .Site.Params.primarylocation }}
 <script type="application/ld+json">
 [
 	{
@@ -9,7 +10,8 @@
 			"@context": "http://schema.org/",
 			"@type": "WebPageElement",
 			"cssSelector": ".body-content"
-		}
+		},
+		"primaryImageOfPage": "{{ .Site.Params.imageurl | absURL }}"
 	},
 	{
 		"@context": "http://schema.org",
@@ -20,7 +22,7 @@
 		"name": "{{ .Site.Title }}",
 		"alternateName": "{{ .Site.Title }}",
 		"headline": "{{ .Site.Params.description }}",
-		"image": "{{ .Site.BaseURL }}images/bg.jpg",
+		"image": "{{ .Site.Params.imageurl | absURL }}",
 		"inLanguage": "{{ .Site.LanguageCode }}",
 		"author": "{{ .Site.Params.author }}",
 		"description": "{{ .Site.Params.description }}",
@@ -33,7 +35,7 @@
 		  "name": "{{ .Site.Title }}",
 		  "logo": {
 		    "@type": "ImageObject",
-		    "url": "{{ .Site.BaseURL }}{{ .Site.Params.logourl }}",
+		    "url": "{{ .Site.Params.logourl | absURL }}",
 		    "height": 60,
 		    "width": 107
 		  }
@@ -42,16 +44,16 @@
 			"@context": "http://schema.org",
 			"@type": "localBusiness",
 			"name": "{{ .Site.Title }}",
-			"image":"{{ .Site.BaseURL }}{{ .Site.Params.locations.primary.imageurl }}",
+			"image":"{{ $location.thumbnail | absURL }}",
 			"priceRange":"{{ .Site.Params.pricerange }}",
 			"telephone":"{{ .Site.Params.phone }}",
 			"address": {
 				"@type": "PostalAddress",
-				"streetAddress": "{{ .Site.Params.locations.primary.address.street }}",
-				"addressLocality": "{{ .Site.Params.locations.primary.address.city }}",
-				"addressRegion": "{{ .Site.Params.locations.primary.address.region }}",
-				"addressCountry": "{{ .Site.Params.locations.primary.address.country }}",
-				"postalCode": "{{ .Site.Params.locations.primary.address.postalcode }}"
+				"streetAddress": "{{ $location.address.street }}",
+				"addressLocality": "{{ $location.address.city }}",
+				"addressRegion": "{{ $location.address.region }}",
+				"addressCountry": "{{ $location.address.country }}",
+				"postalCode": "{{ $location.address.postalcode }}"
 			},
 			"aggregateRating": {
 				"@type": "AggregateRating",
@@ -78,7 +80,7 @@
 					{
 						"@type": "Action",
 						"name": "{{ $e.Title }}",
-						"target": "{{ $baseUrl }}{{ $e.URL }}"
+						"target": "{{ $e.URL | absURL }}"
 					}
 					{{- end -}}
 				],
@@ -89,7 +91,7 @@
 						"@type":"SiteNavigationElement",
 						"@id":"#header",
 						"name": "{{ $e.Title }}",
-						"url": "{{ $baseUrl }}{{ trim $e.URL "/" }}"
+						"url": "{{ $e.URL | absURL }}"
 					}
 					{{- end -}}
 				]
@@ -99,7 +101,7 @@
 				"@type": "WPSidebar",
 				"cssSelector": "#sidebar",
 				"citation": [
-				{{ range $i, $e := .Site.Menus.main }}{{ if $i }}, {{ end }}"{{ $baseUrl }}{{ trim $e.URL "/" }}"{{ end }}
+				{{ range $i, $e := .Site.Menus.main }}{{ if $i }}, {{ end }}"{{ $e.URL | absURL }}"{{ end }}
 				]
 			},
 			{
@@ -109,7 +111,7 @@
 				"@id": "#footer",
 				"copyrightHolder":"{{ .Site.Title }}",
 				"publisher": "{{ .Site.Title }}",
-				"copyrightYear":"2018"
+				"copyrightYear":"{{ now.Format "2006"}}"
 			}
 		]
 	}

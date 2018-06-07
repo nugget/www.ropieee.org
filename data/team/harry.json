@@ -1,0 +1,10 @@
+{
+  "name": "Harry ten Berge",
+  "thumbnail": "harry.png",
+  "email": "harry+ropieee@gmail.com",
+  "gender": "male",
+  "nationality": "Dutch",
+  "social": {
+    "github": "spockfish"
+  }
+}
