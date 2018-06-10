@@ -10,7 +10,7 @@
 		{
 			"@type": "Action",
 			"name": "{{ $e.Title }}",
-			"target": "{{ $baseUrl }}{{ $e.URL }}"
+			"target": "{{ $e.URL | absURL }}"
 		}
 		{{- end -}}
 		],
@@ -22,7 +22,7 @@
 				"@type":"SiteNavigationElement",
 				"@id":"#header",
 				"name": "{{ $e.Title }}",
-				"url": "{{ $baseUrl }}{{ trim $e.URL "/" }}"
+				"url": "{{ $e.URL | absURL }}"
 			}
 			{{- end -}}
 		]

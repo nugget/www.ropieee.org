@@ -1,0 +1,13 @@
+{
+  "name": "Netherlands",
+  "thumbnail": "images/logo.png",
+  "email": "harry+ropieee@gmail.com",
+  "phone": "+31625068341",
+  "address": {
+    "street": "Gronausestraat 710",
+    "city": "Enschede",
+    "region": "Overijsel",
+    "country": "Netherlands",
+    "postalcode": "7534 AM"
+  }
+}
