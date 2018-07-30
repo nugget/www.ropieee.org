@@ -4,6 +4,17 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "What's cookin'."
 weight: 5
 ---
+
+**2018/07/30 (142)**
+
+* FIX: reboot weekly schedule does not work
+* FIX: guessing wifi country code does not work
+* IMPROV: make installation of RoonBridge more robust
+* IMPROV: set reboot schedule on new install to 'never'
+* IMPROV: bump Linux Kernel to 4.14.56
+* NEW: (preliminary) support for Allo's Katana DAC HAT
+
+
 **2018/05/21 (110)**
 
 * FIX: WiFi network id with spaces is not allowed
