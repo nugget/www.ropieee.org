@@ -5,6 +5,10 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/08/12 (148)**
+
+* FIX: touch UI is gone
+
 **2018/07/30 (142)**
 
 * FIX: reboot weekly schedule does not work
