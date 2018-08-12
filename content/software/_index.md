@@ -8,7 +8,7 @@ The latest RoPieee image is from 2018/07/30 and can be downloaded from [here](ht
 
 For those that have limited bandwith there's an XZ compressed version of the image (which is about 1/3th of the original size) [here](http://image.ropieee.org/20180730-ropieee-ose-stable.bin.xz)
 
-If you use [Etcher](https://etcher.io) for flashing an SD card you can use this XZ compressed immage *directly* without first decompressing it.
+If you use [Etcher](https://etcher.io) for flashing an SD card you can use this XZ compressed image *directly* without first decompressing it.
 
 *Limitations*
 
