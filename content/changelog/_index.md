@@ -5,7 +5,7 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2018/09/01 (159)**
+**2018/09/01 (160)**
 
 * FIX: force ethernet to 100MB on Pi 3B+
 * IMPROV: display supports non-latin characters
