@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/09/01 (159)**
+
+* FIX: force ethernet to 100MB on Pi 3B+
+* IMPROV: display supports non-latin characters
+* IMPROV: switch to RoPieee's own ArchLinux mirror
+* IMPROV: bump Linux Kernel to 4.14.66
+* NEW: native DSD support for iFi Audio Pro iDSD
+
 **2018/08/12 (148)**
 
 * FIX: touch UI is gone

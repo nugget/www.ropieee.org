@@ -48,6 +48,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * Hegel HD12
 * Holo Springs Level 3 R2R DAC
 * iFi Audio micro/nano iDSD
+* iFi Audio Pro iDSD
 * JLsounds I2SoverUSB
 * LH Labs VI DAC Infinity
 * M2TECH Young MkIII
