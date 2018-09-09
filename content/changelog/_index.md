@@ -5,6 +5,10 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/09/09 (170)**
+
+* FIX: CJK works now (font missing)
+
 **2018/09/01 (160)**
 
 * FIX: force ethernet to 100MB on Pi 3B+
