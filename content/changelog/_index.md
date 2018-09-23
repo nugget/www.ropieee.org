@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/09/23 (171)**
+
+* NEW: support for OSMC Remote Control
+* FIX: network-wait-for-online is taking forever
+
 **2018/09/09 (170)**
 
 * FIX: CJK works now (font missing)
