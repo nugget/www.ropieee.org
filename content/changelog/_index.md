@@ -5,6 +5,13 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/10/01 (179)**
+
+* FIX: display progress bar is flashing when multiple zones are playing
+* FIX: wait longer for network connection on Pi 3 B+
+* IMPROV: bump Linux Kernel to 4.14.72
+* IMPROV: support native DSD on multiple iFi devices
+
 **2018/09/23 (171)**
 
 * NEW: support for OSMC Remote Control
