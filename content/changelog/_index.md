@@ -5,6 +5,15 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/11/06 (219)**
+
+* FIX: sometimes settings are not persisted
+* FIX: improve network connection setup on Pi 3B+ (again)
+* NEW: support for Flirc Remote Control
+* NEW: option to force volume on boot to specific level (USB only)
+* IMPROV: bump Linux kernel to 4.14.76
+* IMPROV: rewritten RoPieee extension
+
 **2018/10/01 (179)**
 
 * FIX: display progress bar is flashing when multiple zones are playing
