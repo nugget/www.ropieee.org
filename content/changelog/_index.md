@@ -5,7 +5,7 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2018/11/18 (225)**
+**2018/11/18 (226)**
 
 * FIX: accept strange chars in WPA passphrase
 * FIX: small CSS fix on the webpage
