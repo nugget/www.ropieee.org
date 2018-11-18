@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/11/18 (225)**
+
+* FIX: accept strange chars in WPA passphrase
+* FIX: small CSS fix on the webpage
+* NEW: support for Wifi dongles
+
 **2018/11/06 (219)**
 
 * FIX: sometimes settings are not persisted

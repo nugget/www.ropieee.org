@@ -10,6 +10,7 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 
 * Allo BOSS DAC
 * Allo DigiOne
+* Allo DigiOne Signature
 * Allo Katana DAC
 * Allo Piano DAC
 * Allo Piano DAC 2.1
