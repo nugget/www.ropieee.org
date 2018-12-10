@@ -5,6 +5,15 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2018/12/10 (232)**
+
+* FIX: show favicon in web interface
+* IMPROV: show mac address on network tab
+* NEW: option to disable LEDs
+* NEW: set screen brigtness separately for clock
+* NEW: service discovery; show other RoPieee units in your network
+* NEW: support for remote volume control
+
 **2018/11/18 (226)**
 
 * FIX: accept strange chars in WPA passphrase
