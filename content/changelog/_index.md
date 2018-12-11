@@ -5,7 +5,7 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2018/12/10 (232)**
+**2018/12/10 (233)**
 
 * FIX: show favicon in web interface
 * IMPROV: show mac address on network tab
