@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/01/18 (239)**
+
+* NEW: support for the Raspberry Pi 3 A+
+* IMPROV: bump Linux kernel to 4.14.88
+
 **2018/12/10 (233)**
 
 * FIX: show favicon in web interface

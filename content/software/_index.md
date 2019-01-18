@@ -4,9 +4,9 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "Download the latest RoPieee image."
 weight: 2
 ---
-The latest RoPieee image is from 2018/12/10 and can be downloaded from [here](http://image.ropieee.org/20181210-ropieee-ose-stable.bin)
+The latest RoPieee image is from 2019/01/18 and can be downloaded from [here](http://image.ropieee.org/20190118-ropieee-ose-stable.bin)
 
-For those that have limited bandwith there's an XZ compressed version of the image (which is about 1/3th of the original size) [here](http://image.ropieee.org/20181210-ropieee-ose-stable.bin.xz)
+For those that have limited bandwith there's an XZ compressed version of the image (which is about 1/3th of the original size) [here](http://image.ropieee.org/20190118-ropieee-ose-stable.bin.xz)
 
 If you use [Etcher](https://etcher.io) for flashing an SD card you can use this XZ compressed image *directly* without first decompressing it.
 
