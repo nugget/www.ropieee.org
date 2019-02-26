@@ -72,6 +72,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * TEAC UD-503
 * Topping DX7s
 * Singxer F-1 converter board
+* SMSL M8A
 * Unison Research Unico CD Due
 * Wyred 4 Sound DAC-2 DSD
 * Wyred 4 Sound DAC-2v2SE
