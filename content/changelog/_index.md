@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/03/21 (243)**
+
+* IMPROV: harden hotfix functionality
+* IMPROV: show hardware serial in info tab
+* IMPROV: simplify configuration for updates
+
 **2019/02/26 (242)**
 
 * IMPROV: bump Linux kernel to 4.14.95
