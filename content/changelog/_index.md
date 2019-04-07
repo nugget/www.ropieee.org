@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/04/07 (248)**
+
+* NEW: clock color can be changed to grey, blue or green
+* NEW: the Alarm Clock extension is included in RoPieee
+
 **2019/03/21 (243)**
 
 * IMPROV: harden hotfix functionality
