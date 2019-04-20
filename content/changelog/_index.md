@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/04/20 (253)**
+
+* IMPROV: bump Linux kernel to 4.14.112
+* IMPROV: support native DSD on the Nagra DAC
+
 **2019/04/07 (248)**
 
 * NEW: clock color can be changed to grey, blue or green
