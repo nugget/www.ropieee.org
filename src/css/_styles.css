@@ -1,1 +1,47 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
+
+
+
+.bg-top{
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,0,1));
+}
+
+.header-content{
+    z-index: 1;
+}
+
+.nav-small{
+    font-size: 16px;
+}
+
+.brand-logo{
+    max-width: 200px;
+}
+
+.nav-padding{
+    padding-top: 35px;
+}
+
+.nav-twitter-padding{
+    padding-top: 11px;
+}
+
+.f-subheadline-l{
+    font-size: 2.2em;
+    font-weight: 600;
+    margin-bottom: 35px;
+}
+
+mark{
+    background-color: white;
+    color: black;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+h2.fw1 mark{
+    background-color: #d8241c;
+    color: white;
+    font-weight: 300;
+    font-size: 0.7em;
+}
