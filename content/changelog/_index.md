@@ -7,7 +7,7 @@ weight: 5
 
 **2019/05/18 (262)**
 
-* NEW: switch to Linux kernel 4.16
+* NEW: switch to Linux kernel 4.19
 * FIX: handle backslashes in wiress passwords
 
 **2019/04/28 (258)**
