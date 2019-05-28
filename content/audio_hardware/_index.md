@@ -15,6 +15,8 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 * Allo Piano DAC
 * Allo Piano DAC 2.1
 * Audiophonics ES9028Q2M
+* Dion Audio LOCO DAC-AMP
+* Dion Audio LOCO-V2 DAC-AMP
 * HifiBerry AMP/AMP+/Amp2
 * HifiBerry DAC/DAC+/DAC+ Pro
 * HifiBerry Digi/Digi+/Digi+ Pro

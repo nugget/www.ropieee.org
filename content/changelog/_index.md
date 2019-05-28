@@ -5,6 +5,10 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/06/?? (2??)**
+
+* NEW: support for the Dion Audio LOCO HAT's
+
 **2019/05/18 (262)**
 
 * NEW: switch to Linux kernel 4.19
