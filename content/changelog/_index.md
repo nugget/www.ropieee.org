@@ -8,11 +8,13 @@ weight: 5
 **2019/06/?? (2??)**
 
 * NEW: support for the Dion Audio LOCO HAT's
+* IMPROV: use native driver for Audiophonics HAT
+* IMPROV: bump Linux kernel to 4.19.?
 
 **2019/05/18 (262)**
 
 * NEW: switch to Linux kernel 4.19
-* FIX: handle backslashes in wiress passwords
+* FIX: handle backslashes in wireless passwords
 
 **2019/04/28 (258)**
 
