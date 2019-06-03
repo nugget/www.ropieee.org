@@ -5,11 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2019/06/?? (2??)**
+**2019/06/03 (276)**
 
 * NEW: support for the Dion Audio LOCO HAT's
 * IMPROV: use native driver for Audiophonics HAT
-* IMPROV: bump Linux kernel to 4.19.?
+* IMPROV: bump Linux kernel to 4.19.46
 
 **2019/05/18 (262)**
 
