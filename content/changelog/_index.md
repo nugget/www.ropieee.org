@@ -5,6 +5,10 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/06/05 (278)**
+
+* FIX: prevent crash during confguration when running on WiFi
+
 **2019/06/03 (276)**
 
 * NEW: support for the Dion Audio LOCO HAT's
