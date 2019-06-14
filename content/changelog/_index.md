@@ -5,7 +5,13 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2019/06/05 (278)**
+**2019/06/14 (290)**
+
+* FIX: harden WiFi setup
+* IMPROV: bump Linux kernel to 4.19.49
+* IMPROV: support native DSD on the Cyrus QXR
+
+**2019/06/05 (286)**
 
 * FIX: prevent crash during confguration when running on WiFi
 

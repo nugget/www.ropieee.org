@@ -43,6 +43,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * AURALiC VEGA
 * Bryston BDA3
 * CH Precision C1 DAC
+* Cyrus QXR
 * Denafrips Ares DAC
 * DIYINHK DSD DXD 384kHz USB to I2S/DSD
 * Eastern El. MiniMax Tube DAC Supreme
