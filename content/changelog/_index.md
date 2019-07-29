@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/07/28 (315)**
+
+* IMPROV: bump Linux kernel to 4.19.60
+* IMPROV: better update notification in the web interface
+* IMPROV: improve on 'pops and clicks' on some USB devices
+* IMPROV: lot's of under the hood stuff for the Raspberry Pi 4
+* IMPROV: lot's of under the hood stuff for RoPieeeXL
+
 **2019/06/14 (290)**
 
 * FIX: harden WiFi setup
