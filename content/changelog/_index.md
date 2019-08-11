@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/08/11 (328)**
+
+* NEW: support for the Raspberry Pi 4
+* NEW: option to disable SSH access
+* NEW: option to enable authentication on the webpage
+* IMPROV: improve on Service Discovery (M-DNS) reliability
+* IMPROV: polish web ui
+
 **2019/07/28 (315)**
 
 * IMPROV: bump Linux kernel to 4.19.60
