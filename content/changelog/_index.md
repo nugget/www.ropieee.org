@@ -5,6 +5,10 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/08/18 (336)**
+
+* NEW: RoPieeeXL
+
 **2019/08/11 (328)**
 
 * NEW: support for the Raspberry Pi 4
