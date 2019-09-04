@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/09/02 (352)**
+
+* FIX: allow hyphens in hostname
+* FIX: ignore warranty bit in device detection
+* IMPROV: support native DSD on the NuPrime IDA-16
+* IMPROV: bump Linux kernel to 4.19.69
+* IMPROV: change discovery naming scheme
+
 **2019/08/18 (336)**
 
 * NEW: RoPieeeXL

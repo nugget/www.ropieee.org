@@ -69,6 +69,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * Nagra DAC
 * NuPrime DAC-9
 * NuPrime DAC-10
+* NuPrime IDA-16
 * OPPO HA-1
 * OPPO HA-2
 * OPPO UDP-205

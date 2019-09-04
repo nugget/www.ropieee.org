@@ -17,7 +17,7 @@ Designed from the ground up with audio in mind, this is the ideal hardware platf
 
 Designed and made in the EU we deliver premium quality.
 
-Interested? Contact [Baseflow](https://baseflow.com/audio) to discuss options.
+Interested? Contact [Baseflow](https://baseflow.com) to discuss options.
 
 <!---
 ![Baseflow](/images/baseflow-logo-small.png)

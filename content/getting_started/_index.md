@@ -16,7 +16,7 @@ As RoPieee is meant to be used unattended (without screen and/or keyboard attach
 
 You want to go wireless? That's not a problem. Of course RoPieee supports on-board wireless on the model 3, but you can also plug in an external USB Wifi adaptor (Realtek chipset only).
 
-You can also visit the web page of the RoPieee to configure some items if necessary. For that you need to either know what the IP address is of your RoPieee or you can visit http://ropieee.local
+You can also visit the web page of the RoPieee to configure some items if necessary. For that you need to either know what the IP address is of your RoPieee or you can visit http://ropieee.local (or http://ropieeexl.local for RoPieeeXL)
 
 <br>
 ### If you want more support you can either go to the [Roon forum](https://community.roonlabs.com/c/audio-products/ropieee) or have a look at the excellent [*RoPieee Beginner's Guide*](https://codexwilkes.com/downloads/ropieee-guide-for-beginners.pdf) written by Nathan Wilkes
