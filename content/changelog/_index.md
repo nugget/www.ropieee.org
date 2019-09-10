@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/09/10 (359)**
+
+* NEW: [RoPieeeXL] Spotify support
+* NEW: add LED functionality for 'blink on update'
+* IMPROV: disable reboot/shutdown button while updating
+
 **2019/09/02 (352)**
 
 * FIX: allow hyphens in hostname
