@@ -4,7 +4,7 @@ featured_image: '/images/The-Best-Record-Player-under-100.jpg'
 description: "Big brother."
 weight: 3
 ---
-RoPieee has always been about running RoonBridge and nothing else. But what if you're not using Roon? Or want to switch occassionally to different networking audio technology? Then RoPieeeXL might be for you: next to Roon you can use DLNA and Airplay technology to stream audio.
+RoPieee has always been about running RoonBridge and nothing else. But what if you're not using Roon? Or want to switch occassionally to different networking audio technology? Then RoPieeeXL might be for you: next to Roon you can use DLNA, Airplay® and Spotify® technology to stream audio.
 
 ![Player Screen](/images/logo_xl.png)
 
