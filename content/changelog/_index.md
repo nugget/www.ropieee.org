@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/09/?? (3??)**
+
+* NEW: support for the Orchard Audio PecanPi DAC
+* IMPROV: devices table is sortable
+
 **2019/09/10 (359)**
 
 * NEW: [RoPieeeXL] Spotify support
