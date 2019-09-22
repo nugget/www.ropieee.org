@@ -5,10 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2019/09/?? (3??)**
+**2019/09/22 (366)**
 
 * NEW: support for the Orchard Audio PecanPi DAC
 * IMPROV: devices table is sortable
+* IMPROV: web ui notifications are dynamic
+* IMPROV: [RoPieeeXL] option to disable additional streaming services
+* FIX: [RoPieeeXL] fix noise on some HAT's when doing DLNA
+* FIX: on some devices initial installation of touchscreen fails
 
 **2019/09/10 (359)**
 
