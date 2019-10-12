@@ -68,6 +68,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * Mytek Brooklyn DAC+
 * Mytek Manhattan DAC
 * Nagra DAC
+* NuPrime uDSD
 * NuPrime DAC-9
 * NuPrime DAC-10
 * NuPrime IDA-16

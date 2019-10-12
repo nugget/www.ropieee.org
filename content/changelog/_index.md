@@ -5,6 +5,16 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/10/12 (373)**
+
+* NEW: support for the Allo Usbridge Signature
+* NEW: support for USB WiFi dongles based on the Ralink RT5370 chipset
+* IMPROV: support native DSD on the NuPrime uDSD
+* IMPROV: [RoPieeeXL] option to set initial volume for Spotify
+* IMPROV: better column layout in web ui
+* IMPROV: improved layout of the notifications
+* IMPROV: bump Linux kernel to 4.19.76
+
 **2019/09/22 (366)**
 
 * NEW: support for the Orchard Audio PecanPi DAC
