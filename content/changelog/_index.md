@@ -5,6 +5,11 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/10/19 (374)**
+
+* NEW: support for USB WiFi dongles based on the Realtek RTL8812AU chipset
+* FIX: support for WiFi USB dongles on Compute Module based hardware (Allo Usbridge Signature)
+
 **2019/10/12 (373)**
 
 * NEW: support for the Allo Usbridge Signature
