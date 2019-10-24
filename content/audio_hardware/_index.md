@@ -40,6 +40,7 @@ RoPieee supports, besides DoP (DSD over PCM), native DSD on the following USB DA
 * APL Hi-Fi DSD-MR
 * APL Hi-Fi DSD-SR
 * Audiolab M-DAC+
+* Audiolab 8300CDQ
 * Aune X1S 32BIT/384 DSD DAC
 * AURALiC VEGA
 * Bryston BDA3
