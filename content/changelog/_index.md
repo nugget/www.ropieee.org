@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/11/17 (383)**
+
+* FIX: split Audiophonics support for 4.14 and 4.19 kernels
+* FIX: saving something in 'advanced' might kill XL
+* IMPROV: update XL components
+
 **2019/10/19 (374)**
 
 * NEW: support for USB WiFi dongles based on the Realtek RTL8812AU chipset
