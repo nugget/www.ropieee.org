@@ -10,6 +10,7 @@ weight: 5
 * FIX: split Audiophonics support for 4.14 and 4.19 kernels
 * FIX: saving something in 'advanced' might kill XL
 * IMPROV: update XL components
+* IMPROV: bump Linux kernel for Pi 4
 
 **2019/10/19 (374)**
 
