@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/12/14 (386)**
+
+* FIX: native DSD back again for the NuPrime DAC-10(H)
+* FIX: waiting very long on boot while on WiFi
+* FIX: WiFi USB adapters are not configured properly
+* IMPROV: filter out double entries on WiFi selection
+* IMPROV: bump Linux kernel for Pi 4
+
 **2019/11/17 (383)**
 
 * FIX: split Audiophonics support for 4.14 and 4.19 kernels
