@@ -2,4 +2,4 @@
 
 
 hugo --config config.yaml,config.metadata.yaml
-scp -P 1974 -r public/* root@vps.ten-berge.org:/srv/www/htdocs/www.ropieee.org
+scp -P 1974 -r public/* root@vps.ten-berge.org:/srv/www/htdocs/ropieee.org

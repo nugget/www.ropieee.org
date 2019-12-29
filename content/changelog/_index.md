@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2019/12/29 (396)**
+
+* NEW: support for upgrading USB controller FW (Pi 4)
+* NEW: show temperature and uptime in devices tab
+* IMPROV: configure wireless in one step
+
 **2019/12/14 (386)**
 
 * FIX: native DSD back again for the NuPrime DAC-10(H)
