@@ -7,15 +7,15 @@ weight: 2
 
 **RoPieee**
 
-The latest RoPieee (2019/12/29) can be downloaded from [here](http://image.ropieee.org/20191229-ropieee-ose_rpi234-stable.bin)
+The latest RoPieee (2020/01/26) can be downloaded from [here](http://image.ropieee.org/20200126-ropieee-ose_rpi234-stable.bin)
 
-XZ compressed version of the image (about 1/3th of the original size) [here](http://image.ropieee.org/20191229-ropieee-ose_rpi234-stable.bin.xz)
+XZ compressed version of the image (about 1/3th of the original size) [here](http://image.ropieee.org/20200126-ropieee-ose_rpi234-stable.bin.xz)
 
 **RoPieeeXL**
 
-The latest RoPieeeXL image (2019/12/29) can be downloaded from [here](http://image.ropieee.org/20191229-ropieeexl-ose_rpi234-stable.bin)
+The latest RoPieeeXL image (2020/01/26) can be downloaded from [here](http://image.ropieee.org/20200126-ropieeexl-ose_rpi234-stable.bin)
 
-XZ compressed version of the image (about 1/3th of the original size) [here](http://image.ropieee.org/20191229-ropieeexl-ose_rpi234-stable.bin.xz)
+XZ compressed version of the image (about 1/3th of the original size) [here](http://image.ropieee.org/20200126-ropieeexl-ose_rpi234-stable.bin.xz)
 
 **Flashing**
 

@@ -5,6 +5,17 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2020/01/26 (413)**
+
+* NEW: [RoPieeeXL] support for Squeezelite
+* NEW: replace old Realtek RTL8XXXU driver for RTL8912EU driver
+* IMPROV: various usability improvements to the web interface
+* IMPROV: various changes to the WiFi discover and configuration process
+* IMPROV: update XL components
+* IMPROV: bump Linux kernel for Pi 4
+* IMPROV: bump Linux kernel for Pi 3
+* FIX: touchscreen show placeholder when no coverart available instead of last available one
+
 **2019/12/29 (396)**
 
 * NEW: support for upgrading USB controller FW (Pi 4)
