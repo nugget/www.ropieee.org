@@ -5,6 +5,14 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2.427 (2020/02/05)**
+
+* IMPROV: [Usbridge] update LAN driver
+* IMPROV: the return of the RTL8XXXU driver
+* IMPROV: [RoPieeeXL] disable services on install
+* IMPROV: introduce new versioning scheme
+* FIX: when switching coverart there's a brief mention of 'no connection'
+
 **2020/01/26 (413)**
 
 * NEW: [RoPieeeXL] support for Squeezelite
