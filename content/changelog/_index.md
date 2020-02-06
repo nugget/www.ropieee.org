@@ -5,6 +5,12 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2.4?? (2020/02/??)**
+
+* NEW: change touchscreen parameters from web interface
+* NEW: set touchscreen screen saver timeout
+* NEW: support Pi 2 Design PI2AES HAT
+
 **2.427 (2020/02/05)**
 
 * IMPROV: [Usbridge] update LAN driver

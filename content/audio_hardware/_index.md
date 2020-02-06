@@ -28,6 +28,7 @@ RoPieee supports different digital audio outputs. After it's initial setup it as
 * Orchard Audio ApplePi DAC
 * Orchard Audio PecanPi DAC
 * Pi 2 Design 502DAC P.4
+* Pi 2 Design PI2AES
 * Raspberry Pi DAC (I2S Generic)
 
 _(HAT's marked with * have preliminary support.)_
