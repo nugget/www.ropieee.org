@@ -5,11 +5,17 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2.4?? (2020/02/??)**
+**2.450 (2020/02/25)**
 
 * NEW: change touchscreen parameters from web interface
 * NEW: set touchscreen screen saver timeout
+* NEW: set customized color for touchscreen
 * NEW: support Pi 2 Design PI2AES HAT
+* NEW: [RoPieeeXL] support HQPlayer NAA
+* IMPROV: when LED's are set to 'off' also disable the red power led
+* IMPROV: firmware update for Pi 4 USB Controller
+* IMPROV: bump Linux kernel for Pi 4
+* IMPROV: skip critical updates during boot
 
 **2.427 (2020/02/05)**
 
