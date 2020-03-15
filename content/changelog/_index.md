@@ -5,6 +5,17 @@ description: "What's cookin'."
 weight: 5
 ---
 
+**2.459 (2020/03/15)**
+
+* IMPROV: [RoPieeeXL] update HQPlayer NAA
+* IMPROV: [RoPieeeXL] update Shairport-Sync (Airplay)
+* IMPROV: [RoPieeeXL] update Squeezelite (Squeezebox)
+* IMPROV: [RoPieeeXL] update Librespot (Spotify)
+* FIX: [RoPieeeXL] can not stream with UPNP/DLNA
+* FIX: [RoPieeeXL] initial UPNP/DLNA volume is distorted
+* IMPROV: bump Linux kernel for Pi 4
+* IMPROV: bump Linux kernel for Pi 3
+
 **2.450 (2020/02/25)**
 
 * NEW: change touchscreen parameters from web interface
