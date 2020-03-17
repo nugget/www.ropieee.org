@@ -5,7 +5,7 @@ description: "What's cookin'."
 weight: 5
 ---
 
-**2.459 (2020/03/15)**
+**2.462 (2020/03/17)**
 
 * IMPROV: [RoPieeeXL] update HQPlayer NAA
 * IMPROV: [RoPieeeXL] update Shairport-Sync (Airplay)
